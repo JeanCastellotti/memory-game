@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "lorem ispum",
+      "cat": "foo"
+    },
+    {
+      "id": 2,
+      "title": "lorem ipsum ipsum",
+      "cat": "bar"
+    },
+    {
+      "id": 3,
+      "title": "lorem ipsum dolar",
+      "cat": "foo"
+    },
+    {
+      "id": 4,
+      "title": "lorem ipsum lorem dolar",
+      "cat": "foo"
+    }
+  ]
+}
